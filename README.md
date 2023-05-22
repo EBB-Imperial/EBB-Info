@@ -1,5 +1,15 @@
 # EEB-Info
-for putting useful links &amp; project schedule
+useful links &amp; project schedule here
+
+<br>
+
+### Calendar
+![1](calendar%201.png)
+![2](calendar%202.png)
+
+<br>
+
+### Useful Links
 
 GitHub repo with Project Brief and documentation:
 https://github.com/hakanmerdan/EEEBalanceBug
