@@ -1,0 +1,49 @@
+EBB todo
+
+--------------------- milestone 1 -----------------------
+target: make the robot start moving, get vision input, light beacon
+
+0. start designing chassis (Vic)
+1. Get motor spinning (tbd)
+2. Get camera reading (on to small screen if possible) -> start cv algorithm research (Leo)
+3. Light up beacon (Zzw & Vic)
+4. PC connect to esp32 (Stanly)
+4.5 basic UI & learning (Johnny)
+5. esp32 connect to FPGA + motor (Leo)
+6. Simple forward / turn actions (tbd)
+
+--------------------- milestone 2 -----------------------
+target: balance on two wheels, beacon fully implemented, stability build
+
+7. configure MPU6050 to get reading (Leo)
+8. standing algorithm
+9. forward / turn / back implementation
+10. beacon SMTP finish
+11. beacon outdoor testing
+12. distributable UI debug & control software
+13. integration testing
+
+--------------------- milestone 3 -----------------------
+target: In depth cv algorithm finish, maze mapping, path finding
+
+(Yi)
+(reference only)
+- image augmentation (add contrast)
+- homography transformation
+- image line detection
+- map making
+- beacon detection
+- navigation algorithm
+
+
+--------------------- final milestone -----------------------
+target: test in arena and fullfill all requirements
+
+- other group info scouting
+- everyone work on unsolved difficulties
+- actual arena test & debug
+- polish up code, hardware, model for better look, write documentation.
+
+
+
+
